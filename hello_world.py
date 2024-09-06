@@ -1,5 +1,5 @@
 def add(x, y):
-    a = x = y
+    a = x + y
     return a
 
 def print_KIT():
